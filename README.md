@@ -71,6 +71,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
 * [`Hisoka775`](https://github.com/Hisoka775)
+* [`RiskiRj`](https://github.com/RiskiRj) 
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
