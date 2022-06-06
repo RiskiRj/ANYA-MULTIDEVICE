@@ -1,4 +1,4 @@
-# Hisoka-Morou
+# ANYA-MULTIDEVICE
 Script WhatsApp Bot Multi Device
 
 ## NOTE
