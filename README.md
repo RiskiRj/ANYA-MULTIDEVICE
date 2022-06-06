@@ -20,8 +20,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git clone https://github.com/RiskiRj/Anya-Md1
-cd Hisoka-Morou
+git clone https://github.com/RiskiRj/ANYA-MULTIDEVICE
+cd ANYA-MULTIDEVICE
 npm install
 ```
 
@@ -41,8 +41,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/DikaArdnt/Hisoka-Morou
-cd Hisoka-Morou
+git clone https://github.com/RiskiRj/ANYA-MULTIDEVICE
+cd ANYA-MULTIDEVICE
 npm install
 ```
 
@@ -76,6 +76,4 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
-Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
+
